@@ -13,3 +13,6 @@ I will write our news from today in this file. Also, I will add our previous new
 
 News:
 For now (2017-05-21), we start to learn R language.
+
+2017-06-01
+Now I'm studying hard for my final exam. So I will continue learning R programming from 22th June.
