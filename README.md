@@ -16,3 +16,6 @@ For now (2017-05-21), we start to learn R language.
 
 2017-06-01.
 Now I'm studying hard for my final exam. So I will continue learning R programming from 22th June.
+
+2017-06-25
+Well, I'm busy to studying algorithm now, so I think I may start learning R programming from July.
