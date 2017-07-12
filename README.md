@@ -19,3 +19,6 @@ Now I'm studying hard for my final exam. So I will continue learning R programmi
 
 2017-06-25
 Well, I'm busy to studying algorithm now, so I think I may start learning R programming from July.
+
+2017-07-12
+I'm finished to learning algorithm last week. And I found that, to finish my graduation portfolio, I should use twitter API to gather user data from people. But there is a trouble! Twitter APIs are using Python language, which I never used. So now I'm studying Python language to use twitter API. I guess I will study this to end of July and start to use twitter API.
