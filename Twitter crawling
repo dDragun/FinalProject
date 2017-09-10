@@ -1,0 +1,32 @@
+import tweepy
+import json
+from tweepy import OAuthHandler
+
+consumer_key = '7kPxQUTuVVbo2wqlg1qPLqLVB'
+consumer_secret = 'dcEcxaiAdJGxE1LYHMlbeXJZSX7GOyohPSaLTkRfoq0OXVrvQs'
+access_token = '753512324011393024-cFY9olzHQQ850cIKIcDbNhUb6sSswpV'
+access_secret = 'DQErF0BR1kL33aAiwultZOBeCwMT7V5d1FXnol9dCCVmE'
+
+auth = OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_secret)
+
+api = tweepy.API(auth)
+
+def process_or_store(tweet):
+    print(json.dumps(tweet))
+"""
+for status in tweepy.Cursor(api.home_timeline).items(10):
+    print(status.text)
+"""
+for status in tweepy.Cursor(api.home_timeline).items(10):
+        with open('data.json', 'a') as f:
+            line = f.readline()
+            tweet = json.loads(line)
+            print(json.dumps(tweet, indent = 4))
+
+
+
+
+
+
+
