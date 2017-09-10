@@ -25,3 +25,9 @@ I'm finished to learning algorithm last week. And I found that, to finish my gra
 
 2017-07-24.
 Python study finished. From now I will try to use twitter APIs and facebook APIs.
+
+I and my partner tried to crawling data from Facebook and Twitter last month, but after long time of trying, we found that we cannot gather data which we want via security policy of SNS service company. And we also realized that matching candidate of the presidential election and electors are out of fashion. 
+After discussion, we decided to write a graduation thesis individually, not graduation portfolio.
+
+2017-09-10.
+Now I have two items and doing researh to choose one item to do.
