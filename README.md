@@ -31,3 +31,9 @@ After discussion, we decided to write a graduation thesis individually, not grad
 
 2017-09-10.
 Now I have two items and doing researh to choose one item to do.
+
+2017-09-11 ~ 09-15. 
+Trying to analysis data with Python Altair, but cannot find answer.
+
+2017-09-16. 
+Data gathering finished. Change the way get line graph from Altair to Pandas,
