@@ -36,4 +36,7 @@ Now I have two items and doing researh to choose one item to do.
 Trying to analysis data with Python Altair, but cannot find answer.
 
 2017-09-16. 
-Data gathering finished. Change the way get line graph from Altair to Pandas,
+Data gathering finished. Change the way get line graph from Altair to Pandas.
+
+2017-09-17.
+Data arrangement completed. Next plans are: 1. Display South Korean land into divided areas with specific mark. 2. Analysis data with Python.
