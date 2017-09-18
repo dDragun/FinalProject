@@ -8,7 +8,7 @@ import plotly
 import plotly.offline as py
 import plotly.graph_objs as go
 
-cf.go_offline()                 // you will meat errors when you type these two lines. So, turn on your jupyter terminal and type jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000 to sole this problem.
+cf.go_offline()                 // you may meet errors when you type these two lines. So, turn on your jupyter terminal and type jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000 to sole this problem.
 py.init_notebook_mode()
 
 data = pd.read_csv('Where/Where/files.csv')
