@@ -16,3 +16,5 @@ data = pd.read_csv('/Users/gundu/Desktop/Fortest/1401to1504temp.csv')
 plot = data2.plot(title='Temrs temperature', lw=2, colormap='jet', marker='.', markersize=10)    # These codes from https://tutorials.technology/tutorials/17-how-to-plot-with-python-pandas.html
 plot.set_xlabel("numbering")
 plot.set_ylabel("Temperature")
+
+plot.show()
