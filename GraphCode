@@ -1,0 +1,11 @@
+// ALL codes and data below are from https://dev.socrata.com/blog/2016/02/02/plotly-pandas.html , Thanks to Jaime Sanchez!
+
+import pandas as pd
+import numpy as np
+import matplotlib
+import cufflinks as cf
+import plotly
+import plotly.offline as py
+import plotly.graph_objs as go
+cf.go_offline()
+py.init_notebook_mode()
