@@ -17,4 +17,4 @@ plot = data2.plot(title='Temrs temperature', lw=2, colormap='jet', marker='.', m
 plot.set_xlabel("numbering")
 plot.set_ylabel("Temperature")
 
-plot.show()
+plt.show()
