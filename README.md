@@ -40,3 +40,6 @@ Data gathering finished. Change the way get line graph from Altair to Pandas.
 
 2017-09-17.
 Data arrangement completed. Next plans are: 1. Display South Korean land into divided areas with specific mark. 2. Analysis data with Python.
+
+2017-09-18.
+After trying and trying to draw line graph to display my data. I couldn't successfully get the graph I want. I tried to seperate my data into many terms. And then, I tried to use acesending number instead of real date number.
