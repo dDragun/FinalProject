@@ -12,5 +12,7 @@ import plotly.graph_objs as go
 cf.go_offline()                 # you may meet errors when you type these two lines. So, turn on your jupyter terminal and type jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000000 to sole this problem.
 py.init_notebook_mode()
 
-data = pd.read_csv('Where/Where/files.csv')
-
+data = pd.read_csv('/Users/gundu/Desktop/Fortest/1401to1504temp.csv')
+plot = data2.plot(title='Temrs temperature', lw=2, colormap='jet', marker='.', markersize=10)
+plot.set_xlabel("numbering")
+plot.set_ylabel("Temperature")
