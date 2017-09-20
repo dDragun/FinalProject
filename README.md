@@ -43,3 +43,6 @@ Data arrangement completed. Next plans are: 1. Display South Korean land into di
 
 2017-09-18.
 After trying and trying to draw line graph to display my data. I couldn't successfully get the graph I want. I tried to seperate my data into many terms. And then, I tried to use acesending number instead of real date number.
+
+2017-09-20.
+Interim Report finished.
