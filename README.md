@@ -46,3 +46,9 @@ After trying and trying to draw line graph to display my data. I couldn't succes
 
 2017-09-20.
 Interim Report finished.
+
+2017-10-16.
+Start to find the way analyse my data.
+
+2017-10-19.
+Finding data analysis method completed.
