@@ -52,3 +52,6 @@ Start to find the way analyse my data.
 
 2017-10-19.
 Finding data analysis method completed.
+
+2017-10-21.
+Draft of Final Report finished.
