@@ -55,3 +55,9 @@ Finding data analysis method completed.
 
 2017-10-21.
 Draft of Final Report finished.
+
+2017-10-23.
+Final Report Vol.2 finished.
+
+2017-10-27.
+Final Report Vol.3 finished.
