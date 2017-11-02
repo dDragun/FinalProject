@@ -54,10 +54,13 @@ Start to find the way analyse my data.
 Finding data analysis method completed.
 
 2017-10-21.
-Draft of Final Report finished.
+Draft of Paper finished.
 
 2017-10-23.
-Final Report Vol.2 finished.
+Paper Vol.2 finished.
 
 2017-10-27.
-Final Report Vol.3 finished.
+Paper Vol.3 finished.
+
+2017-11-01.
+Paper final version finished.
